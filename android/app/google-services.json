@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18710087455",
+    "project_id": "foodcart-a631c",
+    "storage_bucket": "foodcart-a631c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18710087455:android:e874143e408df91fcb122a",
+        "android_client_info": {
+          "package_name": "com.example.hetal_dave_practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18710087455-sv2s03pe4os1kn4oev8kvqicunt1j6nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4o1I7gzfu6pne4WZOOH2mo03ZTxrKck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18710087455-sv2s03pe4os1kn4oev8kvqicunt1j6nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
